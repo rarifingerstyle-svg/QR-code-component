@@ -10,8 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add your GitHub repository URL here](https://github.com/your-username/your-repo-name)
-- Live Site URL: [Add your Vercel / GitHub Pages URL here](https://your-project-name.vercel.app)
+- Solution URL: [GitHub repository URL here](https://github.com/rarifingerstyle-svg/QR-code-component)
+- Live Site URL: [Vercel URL here](https://qr-code-component-ycw4.vercel.app/)
 
 ## My process
 
